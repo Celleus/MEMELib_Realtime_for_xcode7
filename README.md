@@ -1,4 +1,4 @@
 # MEMELib_Realtime_for_xcode7
 
-このプロジェクトはJINS MEME DEVELOPERサイトからSDKをダウンロードした時についてくるサンプルアプリケーションをXcode7以下の人でも使用できるように調整したものになります。
+このプロジェクトはJINS MEME DEVELOPERサイトからSDKをダウンロードした時についてくるサンプルアプリケーションをXcode7以下の人でも使用できるように調整したものになります
 
